@@ -6,5 +6,4 @@ You can install the libraries required to run the code by using this command:
 
     pip install -r requirements.txt
 
-In order to generate a persona of a dimensionality reduction algorithm, two files are required (normal and transposed file). Once the two files are generated, the files are sent to automatic persona generation to generate the personas and their attributes. read more: https://persona.qcri.org"
-
+To generate a persona using the output from a dimensionality reduction algorithm, two files are required (normal and transposed file). Once the two files are generated, the files can be sent to Automatic Persona Generation to generate the personas and their attributes. Read more: https://persona.qcri.org.
