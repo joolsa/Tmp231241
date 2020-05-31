@@ -9,7 +9,7 @@ NOTE: The data files are scrambled to protect business-sensitive information, an
 
 You can install the libraries required to run the code by using this command:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 The replication of the methodology involves four steps. The steps are explained as follows.
 
